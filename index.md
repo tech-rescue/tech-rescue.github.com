@@ -6,4 +6,4 @@ layout: page
 
 [Assembly Instructions](/assembly)
 
-[Download for Offline User]()
+[Download for Offline Use]()

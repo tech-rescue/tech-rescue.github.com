@@ -19,9 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A collection of techincal rescue resources that can be downloaded and kept in a orginized fashion offline for field use.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: tech-rescue
-github_username:  ejd91717
-
+github_username:  tech-rescue
 # Build settings
 markdown: kramdown
 theme: minima
