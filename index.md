@@ -2,8 +2,8 @@
 layout: page
 ---
 
-[Manuals](/manuals)
+[Manuals](./manuals)
 
-[Assembly Instructions](/assembly)
+[Assembly Instructions](./assembly)
 
 [Download for Offline Use]()

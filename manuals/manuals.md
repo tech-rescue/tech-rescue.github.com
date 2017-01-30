@@ -42,5 +42,8 @@ permalink: /manuals/
 * [Airshore A-FRAME Parts List](parts-lists/172A280 Airshore A-FRAME-PartsList-R1.pdf)
 * [Airshore A-FRAME Parts List R2](parts-lists/172A280 Airshore A-FRAME-PartsList-R2.pdf)
 * [ART-AFK Airshore BLUE-EC Rescue Strut Parts List](parts-lists/172A288 Airshore BLUE-EC Rescue Strut-PartsList-R1.pdf)
+* [AIR-DM Deadman Controller Parts List](parts-lists/AIR-DM.pdf)
 * [Airshore DMT Dual Deadman Controller Parts List](parts-lists/172A311 Airshore DMT-DualDeadmanController.pdf)
+* [AIR-DLPC Large Dual Deadman Controller Parts List](parts-lists/AIR-DLPC.pdf)
+* [AIR-DCAB High Pressure Airbag Controller Parts List](parts-lists/AIR-DCAB.pdf)
 * [Airshore Lite Pod](parts-lists/279A054 Airshore Lite Pod (1).pdf)
