@@ -8,6 +8,7 @@ permalink: /manuals/
 * [Retrofits](#hurst-airshore-retrofits)
 * [Repairs and Maintenance](#hurst-airshore-repairs-and-maintance)
 * [Parts List](#hurst-airshore-parts-list)
+* [AirShore Catalog](1-2016-AIRSHORE-Cataloge.pdf)
 
 #### Hurst AirShore Manuals
 * [AirShore Operations Manual](airshore_operations_manual.pdf)
@@ -47,3 +48,4 @@ permalink: /manuals/
 * [AIR-DLPC Large Dual Deadman Controller Parts List](parts-lists/AIR-DLPC.pdf)
 * [AIR-DCAB High Pressure Airbag Controller Parts List](parts-lists/AIR-DCAB.pdf)
 * [Airshore Lite Pod](parts-lists/279A054 Airshore Lite Pod (1).pdf)
+* [ART-RRN Raker Rail Nailer](parts-lists/Airshore ART-RRN.pdf)
