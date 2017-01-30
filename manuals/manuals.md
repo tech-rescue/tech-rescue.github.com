@@ -34,30 +34,30 @@ Use Silicone lubricant. Such as MMM08897 from napa
 
 [Airshore 6-24-Extension Parts List](parts-lists/172A265 Airshore 6-24-Extension-PartsList-R3.pdf)
 
+[Airshore 36-48-72-Extension-Parts List](parts-lists/172A268 Airshore 36-48-72-Extension-PartsList-R4.pdf)
+
 [Airshore BLUE Rescue Strut Parts List](parts-lists/172A266 Airshore BLUE Rescue Strut-PartsList-R3.pdf)
 
 [Airshore RED Rescue Strut Parts List](parts-lists/172A266 Airshore RED Rescue Strut-PartsList-R2.pdf)
 
-[Airshore AA-RED Rescue Strut-Parts List](parts-list/172A267 Airshore AA-RED Rescue Strut-PartsList-R2.pdf)
+[Airshore AA-RED Rescue Strut-Parts List](parts-lists/172A267 Airshore AA-RED Rescue Strut-PartsList-R2.pdf)
 
-[Airshore 36-48-72-Extension-Parts List](parts-list/172A268 Airshore 36-48-72-Extension-PartsList-R4.pdf)
+[Airshore BLUE Rescue Strut Parts List](parts-lists/172A273 Airshore BLUE Rescue Strut-PartsList-R2.pdf)
 
-[Airshore BLUE Rescue Strut Parts List](parts-list/172A273 Airshore BLUE Rescue Strut-PartsList-R2.pdf)
+[Airshore BLUE Rescue Strut Parts List](parts-lists/172A273 Airshore BLUE Rescue Strut-PartsList-R3.pdf)
 
-[Airshore BLUE Rescue Strut Parts List](parts-list/172A273 Airshore BLUE Rescue Strut-PartsList-R3.pdf)
+[Airshore AA-BLUE Rescue Strut Parts List](parts-lists/172A274 Airshore AA-BLUE Rescue Strut-PartsList-R2.pdf)
 
-[Airshore AA-BLUE Rescue Strut Parts List](parts-list/172A274 Airshore AA-BLUE Rescue Strut-PartsList-R2.pdf)
+[Airshore BLUE-EC Rescue Strut Parts List](parts-lists/172A288 Airshore BLUE-EC Rescue Strut-PartsList-R2.pdf)
 
-[Airshore A-FRAME Parts List](parts-list/172A280 Airshore A-FRAME-PartsList-R1.pdf)
+[Vetter BLUE-EC Strut Parts List](parts-lists/172A291 Vetter BLUE-EC Strut-PartsList-R2.pdf)
 
-[Airshore A-FRAME Parts List R2](parts-list/172A280 Airshore A-FRAME-PartsList-R2.pdf)
+[Airshore A-FRAME Parts List](parts-lists/172A280 Airshore A-FRAME-PartsList-R1.pdf)
 
-[Airshore BLUE-EC Rescue Strut Parts List](parts-list/172A288 Airshore BLUE-EC Rescue Strut-PartsList-R1.pdf)
+[Airshore A-FRAME Parts List R2](parts-lists/172A280 Airshore A-FRAME-PartsList-R2.pdf)
 
-[Airshore BLUE-EC Rescue Strut Parts List](parts-list/172A288 Airshore BLUE-EC Rescue Strut-PartsList-R2.pdf)
+[ART-AFK Airshore BLUE-EC Rescue Strut Parts List](parts-lists/172A288 Airshore BLUE-EC Rescue Strut-PartsList-R1.pdf)
 
-[Vetter BLUE-EC Strut Parts List](parts-list/172A291 Vetter BLUE-EC Strut-PartsList-R2.pdf)
+[Airshore DMT Dual Deadman Controller Parts List](parts-lists/172A311 Airshore DMT-DualDeadmanController.pdf)
 
-[Airshore DMT Dual Deadman Controller Parts List](parts-list/172A311 Airshore DMT-DualDeadmanController.pdf)
-
-[Airshore Lite Pod](parts-list/279A054 Airshore Lite Pod (1).pdf)
+[Airshore Lite Pod](parts-lists/279A054 Airshore Lite Pod (1).pdf)
